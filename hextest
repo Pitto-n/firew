@@ -1,0 +1,10 @@
+import java.awt.geom.Point2D;
+
+public class hexigon {
+	
+	public Point2D point;
+	
+	public boolean state;
+	
+}	
+
